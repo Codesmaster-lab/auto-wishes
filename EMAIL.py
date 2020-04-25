@@ -10,7 +10,7 @@ EMAIL_PASS='zgxbykxosdqkdvmj'
 data = pd.read_excel (r'DATA.xlsx')
 df = pd.DataFrame(data, columns= ['EMAIL','DOB'])
 mylist = df.values.tolist()
-
+print("Logging In ...... \n")
 
 smtp= smtplib.SMTP_SSL('smtp.gmail.com', 465)
 smtp.login(EMAIL, EMAIL_PASS)
