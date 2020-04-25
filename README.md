@@ -8,6 +8,7 @@ To run this file <br/>
 3.install the requirements using pip install requirements.txt<br/>
 4.make an excel documents with Coloumn names 'Email' and 'DOB' and populate with your friend's data </br>
 5.activate your virtual enviroment<br/>
+6.Then host it on python anywhere.com and put a task<br/>
  :)<br/>
  Enjoy<br/>
  
