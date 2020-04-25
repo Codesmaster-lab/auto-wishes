@@ -3,8 +3,8 @@ import pandas as pd
 from email.message import EmailMessage
 from datetime import datetime
 
-EMAIL='souvikdasrocks18@gmail.com'
-EMAIL_PASS='zgxbykxosdqkdvmj'
+EMAIL='YOUR_EMAIL_ADDRESS'
+EMAIL_PASS='YOUR_APP_PASSWORD'
 
 
 data = pd.read_excel (r'DATA.xlsx')
